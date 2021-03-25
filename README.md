@@ -1,6 +1,5 @@
 # ¿Cómo crear mapas en la Web con Leaflet?
 
-https://sampach95.github.io/ComoCrearMapasEnLaWebConLeaflet/README.md
 
 ## CONTENIDO
 
