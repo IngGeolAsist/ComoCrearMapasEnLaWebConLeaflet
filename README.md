@@ -18,8 +18,8 @@
   1. Puntos https://github.com/sampach95/Puntos
   2. Líneas https://github.com/sampach95/Lineas
   3. Polígonos https://github.com/sampach95/Poligonos
-  4. Objetos Multiparte
-  5. PopUps
+  4. Objetos Multiparte https://github.com/sampach95/ObjetosMultiparte
+  5. PopUps https://github.com/sampach95/PopUps
  
 ### Parte IV: Capas Vectoriales: GeoJSON con Estilos Simples
   1. Convertir formatos a GeoJSON.
