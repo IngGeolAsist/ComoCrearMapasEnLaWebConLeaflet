@@ -16,7 +16,7 @@
 
 ### Parte III: Capas Vectoriales: Objetos Simples
   1. Puntos https://github.com/sampach95/Puntos
-  2. Líneas
+  2. Líneas https://github.com/sampach95/Lineas
   3. Polígonos
   4. Objetos Multiparte
   5. PopUps
