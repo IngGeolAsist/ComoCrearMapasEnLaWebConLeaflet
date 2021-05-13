@@ -6,7 +6,7 @@
 ### Parte I: Inicializando en mapa: Primeros Pasos
   1. HTML, CSS y JavaScript: Básicos.
   2. Cargar librerías.
-  3. Etiqueta <div>.
+  3. Etiqueta div.
   4. Crear el lienzo del mapa. https://github.com/sampach95/CrearLienzoDelMapa
 
 ### Parte II: Capas Base
