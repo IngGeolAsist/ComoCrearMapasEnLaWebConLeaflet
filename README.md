@@ -23,7 +23,7 @@
  
 ### Parte IV: Capas Vectoriales: GeoJSON con Estilos Simples
   1. Convertir formatos a GeoJSON. https://github.com/sampach95/ConvertirFormatosAGeoJSON
-  2. Cargar GeoJSON. 
+  2. Cargar GeoJSON.  https://github.com/sampach95/CargarGeoJSON
   3. Estilos Simples. 
 
 ### Parte V: Capas Vectoriales: Categorización. 
