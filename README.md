@@ -28,7 +28,7 @@
 
 ### Parte V: Capas Vectoriales: Categorización. 
   1. Categorizar elementos a partir de una propiedad. https://github.com/sampach95/CategorizarElementosAPartirDeUnaPropiedad.
-  2. Estilos para cada categoría.
+  2. Estilos para cada categoría. https://github.com/sampach95/EstilosParaCadaCategoria
  
 ### Parte VI: Pluggins
   
