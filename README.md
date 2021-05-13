@@ -27,7 +27,7 @@
   3. Estilos Simples. https://github.com/sampach95/EstilosSimples
 
 ### Parte V: Capas Vectoriales: Categorización. 
-  1. Categorizar elementos a partir de una propiedad. 
+  1. Categorizar elementos a partir de una propiedad. https://github.com/sampach95/CategorizarElementosAPartirDeUnaPropiedad.
   2. Estilos para cada categoría.
  
 ### Parte VI: Pluggins
