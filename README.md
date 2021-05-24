@@ -3,7 +3,7 @@
 
 ## CONTENIDO
 
-### Parte I: Inicializando en mapa: Primeros Pasos
+### Parte I: Inicializando el mapa: Primeros Pasos
   1. HTML, CSS y JavaScript: Básicos.
   2. Cargar librerías.
   3. Etiqueta div.
