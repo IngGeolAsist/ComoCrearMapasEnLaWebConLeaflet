@@ -31,5 +31,5 @@
   2. Estilos para cada categoría. https://github.com/sampach95/EstilosParaCadaCategoria
  
 ### Parte VI: Pluggins
-  1. Perfil de Elevación Longitudinal
+  1. Perfil de Elevación Longitudinal https://github.com/sampach95/PerfilDeElevacion
   
