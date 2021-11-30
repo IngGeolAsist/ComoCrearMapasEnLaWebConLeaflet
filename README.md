@@ -11,7 +11,7 @@
 
 ### Parte II: Capas Base
   1. Fuentes.
-  2. Cargar UNA Capas Base. https://github.com/IngGeolAsist/CargarUNACapaBase/blob/main/README.md
+  2. Cargar UNA Capas Base. https://github.com/IngGeolAsist/CargarUNACapaBase
   3. Cargar VARIAS Capas Base + Controlador. 
 
 ### Parte III: Capas Vectoriales: Objetos Simples
